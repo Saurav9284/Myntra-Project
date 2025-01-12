@@ -4,7 +4,7 @@
 
 **Deployed Link**
 
-https://saurav01myntra.netlify.app/
+[https://saurav01myntra.netlify.app/](https://splendorous-cocada-8e1e1f.netlify.app/)
 
 
 First of all, I want to thank the Masai school for giving me this opportunity to work on a collaborative project and enhance my coding skills.
